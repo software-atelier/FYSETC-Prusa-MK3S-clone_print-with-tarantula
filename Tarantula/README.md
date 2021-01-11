@@ -6,10 +6,11 @@ This was the first attempt to in PETG. Some tinkering was needed to make it work
 2. I upgraded to a cooling fan. https://www.thingiverse.com/thing:2186095
 
 ## Filament
-I'm using esum PETG in orange (EAN 6 922572 264083) and solid black (EAN 6 922572 264083).
+I'm using esun PETG in orange (EAN 6 922572 264083) and solid black (EAN 6 922572 264083).
 
 ## Printing times
-|| File || Time ||
-|TT_z-axis-top.gcode | 01:57:56|
+| File | Time |
+| :--- | ---: |
+| TT_z-axis-top.gcode | 01:57:56|
 
-Notice: I'm not done yet, printing all the parts. And I have not assembled the printer yet. I'll keep this repo up do date. 
+Notice: I'm not done yet, printing all the parts. And I have not assembled the printer yet. I'll keep this repo up do date.
