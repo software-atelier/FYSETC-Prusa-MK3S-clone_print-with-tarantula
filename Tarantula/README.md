@@ -8,9 +8,10 @@ This was the first attempt to in PETG. Some tinkering was needed to make it work
 ## Filament
 I'm using esun PETG in orange (EAN 6 922572 264083) and solid black (EAN 6 922572 264083).
 
-## Printing times
-| File | Time |
+## gcode files
+| File | Print Time |
 | :--- | ---: |
-| TT_z-axis-top.gcode | 01:57:56|
+| [TT_z-axis-top.gcode](gcode/Orange/TT_z-axis-top.gcode)    | 01:57:56 |
+| [TT_z-axis-bottom.gcode](gcode/Orange/TT_z-axis-bottom.gcode) | 03:54:08 |
 
 Notice: I'm not done yet, printing all the parts. And I have not assembled the printer yet. I'll keep this repo up do date.
