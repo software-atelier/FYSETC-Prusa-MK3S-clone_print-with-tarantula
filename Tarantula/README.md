@@ -25,6 +25,7 @@ I'm using esun PETG in orange (EAN 6 922572 264083) and solid black (EAN 6 92257
 | [TT_plug-aligner_print-fan-support.gcode](gcode/Black/TT_plug-aligner_print-fan-support.gcode) | 0.5h |
 | [TT_x-carriage-front-back.gcode](gcode/Black/TT_x-carriage-front-back.gcode) | 4.75h |
 | [TT_Ensy-doors_cable-holder_z-screw_cover_adapter-printer.gcode](gcode/Black/TT_Ensy-doors_cable-holder_z-screw_cover_adapter-printer.gcode) | 4.25h |
+|||
 
 
 
@@ -32,7 +33,8 @@ I'm using esun PETG in orange (EAN 6 922572 264083) and solid black (EAN 6 92257
 
 
 \* just a rough measure. Sometimes includes heat up/cool down and sometimes not.
-##Notice
+
+## Notice
 While I had trouble getting the orange filament to stick to the print bed, black was the opposite. On the first attempt, I broke the model while pealing it off. This is why I use a brim on the orange parts and only a skirt on the black parts.
 Defiantly use a lot of glue stick. This helps the orange models to stick and makes it easier to remove the black ones.
 
